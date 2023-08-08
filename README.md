@@ -5,8 +5,8 @@ Technique originally published by [Security Joes](https://www.securityjoes.com/p
 
 # POC
 Use the `rwx_finder.py` to find vulnerable DLLs with RWX sections:
-![](rwx_finder.png)
+![](imgs/rwx_finder.png)
 
 Compile and run the solution:
-![](mockingjay.png)
+![](imgs/mockingjay.png)
 
